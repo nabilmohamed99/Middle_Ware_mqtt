@@ -12,9 +12,7 @@ The Device Data Management System is a rest api  designed to efficiently manage 
   - Bi-Directional Communication
   - Real-Time Updates
 
-## Installation
 
-For detailed installation instructions and usage guidelines, refer to the project's documentation.
 
 
 
